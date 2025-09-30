@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou Kawã 👋</h1>
 
-<!--
-**Fritzfrefrutz/Fritzfrefrutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Seja bem-vindo(a) ao meu perfil! Aqui você vai saber um pouquinho sobre mim.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 Sobre mim
+
+- 🎓 Formação: [Sua formação ou "Em formação"]
+- 💻 Interesse por: **[Áreas que te interessam: ex: Front-end, Data Science, UX/UI, etc.]**
+- 🌱 Atualmente estudando: **[Tecnologias, cursos ou linguagens que está aprendendo]**
+- 💬 Gosto de aprender, compartilhar conhecimento e construir coisas legais com código.
+- ✨ Curiosidade: **[Fale algo interessante ou pessoal, tipo um hobby ou objetivo]**
+
+---
+
+### 📫 Como me encontrar
+
+📧 Email: **sagerkawa@gmail.com**
+
+---
+
+<p align="center">Feito com 💙 por Fritzfrefrutz</p>
